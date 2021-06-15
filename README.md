@@ -17,10 +17,12 @@ A dashboard app created using react, mongodb, express framework and node backend
 5. Start your backend node server
 `cd Backend` then `npm run dev`
 
-6. Start your frontend react 
+6. Open another terminal instance
+
+7. Start your frontend react 
 `cd frontend` then `npm start`
 
-7. Open your browser on `localhost:3000`
+8. Open your browser on `localhost:3000`
 
 # Contributions
 Questions and contributions are welcome.
